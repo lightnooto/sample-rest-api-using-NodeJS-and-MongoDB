@@ -1,4 +1,6 @@
 # Rest API using NodeJS
+### How to run
+npm install > npm start
 
 Model : 
 - Book
