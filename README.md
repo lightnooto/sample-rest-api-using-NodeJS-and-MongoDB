@@ -29,7 +29,7 @@ Routes :
   - /role/:roleId = GET
   - /role/:roleId = PUT
   - /role/:roleId = DELETE  
- - User :
+- User :
   - /user = POST
   - /user = GET
   - /user/:userId = GET
